@@ -1,0 +1,16 @@
+#ball {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: #AAA;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#container {
+    width: 500px;
+    height: 300px;
+    background-color: #242628;
+    position: absolute;
+}
